@@ -1,0 +1,16 @@
+body {
+    background-color: blue;
+}
+h1{
+    color:azure;
+    text-align: center;
+}
+p {
+    color: palegreen;
+}
+div{
+    background-color: purple;
+    margin: auto;
+    padding: 20px;
+    border-radius: 5px, 10px;
+}
