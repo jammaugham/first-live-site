@@ -16,8 +16,6 @@ p {
     margin-top: 500px;
 }
 div{
-    background-color: purple;
     margin: auto;
     padding: 20px;
-    border-radius: 5px, 10px;
 }
