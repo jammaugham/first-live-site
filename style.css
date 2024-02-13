@@ -5,6 +5,16 @@ body    {
     background-size: cover;
     background-attachment: fixed;
 }
+nav{
+    background-color: orange;
+    padding: 10px;
+}
+nav a{
+    color: burlywood;
+    padding: 5px;
+    margin: 5px;
+    text-decoration: orangered;
+}
 h1{
     color:azure;
     text-align: center;
