@@ -1,8 +1,9 @@
 body    {
-    background-color: #424101;
+    background-color: white;
     background-image: url(https://www.alimentarium.org/sites/default/files/media/image/2017-02/AL027-01_pomme_de_terre_0_0.jpg);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
+    background-position: center;
     background-attachment: fixed;
 }
 nav{
